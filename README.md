@@ -23,10 +23,10 @@ Aplicação web simples que consome a [OpenWeatherMap API](https://openweatherma
 ## 🛠️ Como Usar
 
   1. Clone o repositório:
-     ```bash
+     
     git clone https://github.com/seu-usuario/weather-condition.git
   
-  2. Navegue até o diretório do projeto:
+  3. Navegue até o diretório do projeto:
      
     cd weather-condition
     
