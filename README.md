@@ -24,11 +24,11 @@ Aplicação web simples que consome a [OpenWeatherMap API](https://openweatherma
 
   1. Clone o repositório:
      ```bash
-     git clone https://github.com/seu-usuario/condicoes-do-tempo.git
+     git clone https://github.com/seu-usuario/weather-condition.git
   
   2. Navegue até o diretório do projeto:
      
-    cd condicoes-do-tempo
+     cd weather-condition
     
   3. Abra o arquivo index.html em um navegador moderno.
   
