@@ -38,5 +38,6 @@ Observações Importantes
 A aplicação utiliza a chave da API diretamente no código. Para projetos reais, é recomendável armazenar a chave em um arquivo .env ou em variáveis de ambiente do servidor.
 
 Certifique-se de substituir "YOUR_API_KEY" pela sua chave válida da API:
-  const response = await fetch(`https://api.openweathermap.org/data/2.5/weather?q=${location}&appid=YOUR_API_KEY&units=metric`);
+    
+    const response = await fetch(`https://api.openweathermap.org/data/2.5/weather?q=${location}&appid=YOUR_API_KEY&units=metric`);
 
