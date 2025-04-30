@@ -24,11 +24,11 @@ Aplicação web simples que consome a [OpenWeatherMap API](https://openweatherma
 
   1. Clone o repositório:
      ```bash
-     git clone https://github.com/seu-usuario/weather-condition.git
+    git clone https://github.com/seu-usuario/weather-condition.git
   
   2. Navegue até o diretório do projeto:
      
-     cd weather-condition
+    cd weather-condition
     
   3. Abra o arquivo index.html em um navegador moderno.
   
@@ -38,4 +38,5 @@ Observações Importantes
 A aplicação utiliza a chave da API diretamente no código. Para projetos reais, é recomendável armazenar a chave em um arquivo .env ou em variáveis de ambiente do servidor.
 
 Certifique-se de substituir "YOUR_API_KEY" pela sua chave válida da API:
-const response = await fetch(`https://api.openweathermap.org/data/2.5/weather?q=${location}&appid=YOUR_API_KEY&units=metric`);
+  const response = await fetch(`https://api.openweathermap.org/data/2.5/weather?q=${location}&appid=YOUR_API_KEY&units=metric`);
+
